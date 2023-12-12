@@ -1,4 +1,3 @@
-### Tree1 branch oluşturuldu
-### Main branch deneme
-### Github orjinal hesaba geçildi
-### Github depo kontrol
+# Git Dersi
+* liste *italic* **kalın**
+
