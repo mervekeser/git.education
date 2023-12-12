@@ -1,4 +1,3 @@
 # Git Dersi
-* liste *italic* **kalın**
-* liste2
-* liste3
+* git init --> git'i bulunduğumuz klasörde aktif eder
+* git add . --> bütün dosyaları git'e ekler
